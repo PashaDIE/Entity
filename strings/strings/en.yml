@@ -163,8 +163,8 @@ afk_1: "**No Longer Afk**\n\nWas away for ~ `{}`"
 afk_2: "#AFK\nSet AFK mode to False.\nWas AFK since ~ `{}`"
 afk_3: "**I'm currently AFK.**\nLast seen `{}` ago.\n\n**Reason:** `{}`"
 afk_4: "**I'm currently AFK.**\n\nLast seen `{}` ago."
-afk_5: "**I'm Going AFK.**\n\n**Reason:** `{}`"
-afk_6: "**I'm Going AFK.**"
+afk_5: "**Srry,I'm Going AFK.**\n**Reason:** `{}`"
+afk_6: "**Srry,I'm Going AFK.**"
 
 # bot
 bot_1: "Hey,  I am alive."
